@@ -1,1 +1,5 @@
 datasets
+transformers
+pandas
+torch
+huggingface_hub
