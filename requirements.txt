@@ -5,3 +5,5 @@ torch
 huggingface_hub
 dotenv
 accelerate
+peft 
+bitsandbytes
